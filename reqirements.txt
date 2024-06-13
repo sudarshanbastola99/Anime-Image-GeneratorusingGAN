@@ -1,0 +1,62 @@
+asttokens==2.4.1
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1717618050233/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+comm==0.2.2
+contourpy==1.2.1
+cycler==0.12.1
+debugpy==1.8.1
+decorator==5.1.1
+executing==2.0.1
+filelock @ file:///work/perseverance-python-buildout/croot/filelock_1701733993137/work
+fonttools==4.53.0
+idna @ file:///croot/idna_1714398848350/work
+ipykernel==6.29.4
+ipython==8.25.0
+jedi==0.19.1
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+kiwisolver==1.4.5
+MarkupSafe @ file:///work/perseverance-python-buildout/croot/markupsafe_1707342994941/work
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+mkl-fft @ file:///work/perseverance-python-buildout/croot/mkl_fft_1698845673361/work
+mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
+mkl-service==2.4.0
+mpmath @ file:///work/perseverance-python-buildout/croot/mpmath_1698864994882/work
+nest-asyncio==1.6.0
+networkx @ file:///croot/networkx_1717597493534/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
+packaging==24.0
+pandas==2.2.2
+parso==0.8.4
+pexpect==4.9.0
+pillow @ file:///croot/pillow_1714398848491/work
+platformdirs==4.2.2
+prompt_toolkit==3.0.46
+psutil==5.9.8
+ptyprocess==0.7.0
+pure-eval==0.2.2
+Pygments==2.18.0
+pyparsing==3.1.2
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML @ file:///work/perseverance-python-buildout/croot/pyyaml_1698849903511/work
+pyzmq==26.0.3
+requests @ file:///croot/requests_1716902831423/work
+setuptools==69.5.1
+six==1.16.0
+stack-data==0.6.3
+sympy @ file:///croot/sympy_1701397643339/work
+torch==2.3.1
+torchaudio==2.3.1
+torchvision==0.18.1
+tornado==6.4.1
+traitlets==5.14.3
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2024.1
+urllib3 @ file:///croot/urllib3_1715635851070/work
+wcwidth==0.2.13
+wheel==0.43.0
